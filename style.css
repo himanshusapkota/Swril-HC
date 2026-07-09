@@ -1,0 +1,55 @@
+body{
+    font-family: cursive;
+    background-color: #ffffff;
+    text-align: center;
+    margin: 0;
+}
+
+header{
+    background:#e64837 ;
+    color: white;
+    padding: 20px;
+
+}
+
+nav{
+    margin-top: 10px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+}
+
+section{
+    padding: 30px;
+}
+
+.card{
+    background: white;
+    width: 320px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+}
+
+img{
+    border-radius: 10px;
+
+}
+ button{
+    background:#2E8B57 ;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 9px;
+    font-size: 18px;
+    cursor: pointer;
+ }
+
+ buttom:hover{
+    background: #3cff00;
+ }
